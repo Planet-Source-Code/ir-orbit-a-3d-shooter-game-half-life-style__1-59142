@@ -1,0 +1,7 @@
+{
+  map "newmap"
+  bots "ranger bones"
+  longname "my very cool map"
+  fraglimit 50
+  type "ffa"
+}
